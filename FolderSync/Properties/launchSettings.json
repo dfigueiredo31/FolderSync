@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FolderSync": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\dfigu\\Desktop\\source \r\nC:\\Users\\dfigu\\Desktop\\replica \r\nC:\\Users\\dfigu\\Desktop\\log \r\n30"
+    }
+  }
+}
